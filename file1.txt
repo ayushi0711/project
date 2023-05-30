@@ -1,3 +1,4 @@
 line added 1
 this line 2
 here is our line 3
+this is a new line4
